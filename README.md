@@ -1,16 +1,50 @@
-## Hi there 👋 I'm Muhammad Umar
+# Hi 👋 I'm Muhammad Umar
 
-<!--
-**MuhammadUmar72/MuhammadUmar72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer System Engineering Student** at **NED University**  
+💻 Interested in **Computer Architecture & Design**  
+⚙️ Experience with **low-level & high-level programming**  
+🏏⚽🏎️ Love **Cricket, Football & Formula 1**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Know
+- Programming in **Python, C, C++, Dart, Assembly**
+- **Computer Architecture & Organization**
+- Digital logic & system-level design
+- Strong understanding of hardware–software interaction
+
+---
+
+## 🛠️ Languages, Tools & Apps
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
+**Other Tools & Concepts:**  
+- Assembly Language  
+- Logisim  
+- Electronic Workbench (EWB)  
+- SQL  
+
+---
+
+## 📫 Connect With Me
+<p align="left">
+  <a href="https://github.com/MuhammadUmar72">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
+  </a>
+</p>
+
+📧 **Email:** mumararif0346@gmail.com
+
