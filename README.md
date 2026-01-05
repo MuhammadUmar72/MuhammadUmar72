@@ -31,7 +31,8 @@
 **Other Tools & Concepts:**  
 - Assembly Language  
 - Logisim  
-- Electronic Workbench (EWB)  
+- Electronic Workbench (EWB)
+- Cisco Packet Tracer
 - SQL  
 
 ---
